@@ -5,7 +5,8 @@ using namespace std;
 int main () {
     string first, second;
     int currentI, currentJ, currentMAX;
-while(getline(cin, first)) {
+
+    while(getline(cin, first)) {
         getline(cin, second);
 
         int max = 0;
