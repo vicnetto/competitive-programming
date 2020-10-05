@@ -13,41 +13,41 @@ int find_prime (int n) {
 }
 
 int main () {
-    int qnt;
-    vector<int> players;
+    int n;
 
-    scanf("%d", &qnt);
+    while(scanf("%d", &n) && n != 0) {
+        int qnt = n;
+        vector<int> players;
 
-    for (int i = 0; i < qnt; i++) {
-        players.push_back(i + 1);
-    }
-
-    int prime = 2;
-    int currPos = 0;
-
-    while(players.size() != 1) {
-        for (int i = 0; i < players.size(); i++) {
-            cout << players.at(i);
+        for (int i = 0; i < qnt; i++) {
+            players.push_back(i + 1);
         }
-        cout << endl;
 
-        if (currPos + prime - 1 >= players.size()) {
-            currPos = currPos - (prime - (int(prime / players.size()) * players.size())) - 1;
-            currPos = abs(currPos);
-        } else
-            currPos = currPos + prime - 1;
+        int prime = 2;
+        int currPos = 0;
 
-        cout << currPos << " " << prime << endl;
+        while(players.size() != 1) {
+            if (currPos + prime - 1 >= players.size()) {
+                currPos = currPos + (prime - (int(prime / players.size()) * players.size()) - 1);
+                currPos = abs(currPos);
 
-        players.erase(players.begin() + currPos);
+                if (currPos >= players.size())
+                    currPos -= players.size();
+            } else
+                currPos = currPos + prime - 1;
 
-        prime++;
-        while(!find_prime(prime))
+            players.erase(players.begin() + currPos);
+            if (currPos == players.size())
+                currPos = 0;
+
             prime++;
+            while(!find_prime(prime))
+                prime++;
 
-        cout << "-------------" << endl;
+        }
+
+        cout << players.at(0) << endl;
     }
 
-    //cout << players.at(0) << endl;
     return 0;
 }
