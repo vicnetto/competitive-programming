@@ -20,9 +20,9 @@ This repopository is intended to help with some competitive programmming problem
     - Runtime error. In this one i don't really know where to go.
   - :heavy_minus_sign: 1211 - *Economic Phonebook* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: 1221 - *Fast Prime Number* - **(MATHEMATICS)**
-  - :heavy_minus_sign: 1222 - *Short Story Competition* - **(STRINGS)**
-  - :heavy_minus_sign: 1237 - *Compare Substring* - **(STRINGS)**
-  - :heavy_minus_sign: 1277 - *Short Attendance* - **(STRINGS)**
+  - :heavy_check_mark: 1222 - *Short Story Competition* - **(STRINGS)**
+  - :heavy_check_mark: 1237 - *Compare Substring* - **(STRINGS)**
+  - :heavy_check_mark: 1277 - *Short Attendance* - **(STRINGS)**
   - :heavy_minus_sign: 1284 - *Cellphone Typing* - **(STRINGS)**
 
 - UVa Online Judge
