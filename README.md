@@ -5,7 +5,8 @@ This repopository is intended to help people with some competitive programmming 
 ## Current problems:
 
 *LEGEND:*
-:heavy_check_mark: Finished! | :heavy_minus_sign: Working on. :x: | Had problems with this one.
+
+| :heavy_check_mark: Finished! | :heavy_minus_sign: Working on. | :x: Had problems with this one. |
 
 - URI Online Judge
   - :heavy_check_mark: 1032 - *Joseph’s Cousin* - **(AD-HOC)**
@@ -17,6 +18,7 @@ This repopository is intended to help people with some competitive programmming 
   - :x: 1202 - *White Nights Festival* - **(MATHEMATICS)**
     - Runtime error. In this one i don't really know where to go.
   - :heavy_check_mark: 1211 - *Economic Phonebook* - **(DATA STRUCTURES AND LIBRARIES)**
+  - :heavy_check_mark: 1215 - *Andy's First Dictionary* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: 1221 - *Fast Prime Number* - **(MATHEMATICS)**
   - :heavy_check_mark: 1222 - *Short Story Competition* - **(STRINGS)**
   - :heavy_check_mark: 1237 - *Compare Substring* - **(STRINGS)**
