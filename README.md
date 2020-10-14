@@ -26,7 +26,7 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1246](https://www.urionlinejudge.com.br/judge/en/problems/view/1246) - *Parking Lot* - **(AD-HOC)**
   - :heavy_check_mark: [1277](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) - *Short Attendance* - **(STRINGS)**
   - :heavy_minus_sign: [1284](https://www.urionlinejudge.com.br/judge/en/problems/view/1284) - *Cellphone Typing* - **(STRINGS)**
-  - :heavy_minus_sign: [1287](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) - *Friendly Int Parser* - **(STRINGS)**
+  - :heavy_check_mark: [1287](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) - *Friendly Int Parser* - **(STRINGS)**
   - :heavy_check_mark: [1321](https://www.urionlinejudge.com.br/judge/en/problems/view/1321) - *Jollo* - **(AD-HOC)**
 
 - UVa Online Judge
