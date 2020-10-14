@@ -1,6 +1,6 @@
 # :heavy_check_mark: Competitive Programming :heavy_check_mark:
 
-This repopository is intended to help people with some competitive programmming problems from URI and UVa. Currently, there is only my finished exercises.
+This repopository is intended to help people with some competitive programmming problems from URI and UVa.
 
 ## Current problems:
 
@@ -13,16 +13,17 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1032](https://www.urionlinejudge.com.br/judge/en/problems/view/1032) - *Joseph’s Cousin* - **(AD-HOC)**
   - :heavy_check_mark: [1068](https://www.urionlinejudge.com.br/judge/en/problems/view/1068) - *Parenthesis Balance I* - **(DATA STRUCTURES AND LIBRARIES)**
   - :x: [1086](https://www.urionlinejudge.com.br/judge/en/problems/view/1086) - *The Club Ballroom* - **(AD-HOC)**
-    - Currently getting WA 45% on this one, but i don't really remember why.
+    - WA 45%.
   - :heavy_minus_sign: [1122](https://www.urionlinejudge.com.br/judge/en/problems/view/1122) - *Account Book* - **(AD-HOC)**
   - :heavy_minus_sign: [1198](https://www.urionlinejudge.com.br/judge/en/problems/view/1198) - *Hashmat the Brave Warrior* - **(MATHEMATICS)**
   - :x: [1202](https://www.urionlinejudge.com.br/judge/en/problems/view/1202) - *White Nights Festival* - **(MATHEMATICS)**
-    - Runtime error. In this one i don't really know where to go.
+    - Runtime error. Having difficulties to accomplish the problem in the required time.
   - :heavy_check_mark: [1211](https://www.urionlinejudge.com.br/judge/en/problems/view/1211) - *Economic Phonebook* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: [1215](https://www.urionlinejudge.com.br/judge/en/problems/view/1215) - *Andy's First Dictionary* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: [1221](https://www.urionlinejudge.com.br/judge/en/problems/view/1221) - *Fast Prime Number* - **(MATHEMATICS)**
   - :heavy_check_mark: [1222](https://www.urionlinejudge.com.br/judge/en/problems/view/1222) - *Short Story Competition* - **(STRINGS)**
   - :heavy_check_mark: [1237](https://www.urionlinejudge.com.br/judge/en/problems/view/1237) - *Compare Substring* - **(STRINGS)**
+  - :heavy_check_mark: [1246](https://www.urionlinejudge.com.br/judge/en/problems/view/1246) - *Parking Lot* - **(AD-HOC)**
   - :heavy_check_mark: [1277](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) - *Short Attendance* - **(STRINGS)**
   - :heavy_minus_sign: [1284](https://www.urionlinejudge.com.br/judge/en/problems/view/1284) - *Cellphone Typing* - **(STRINGS)**
   - :heavy_check_mark: [1321](https://www.urionlinejudge.com.br/judge/en/problems/view/1321) - *Jollo* - **(AD-HOC)**
