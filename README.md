@@ -24,6 +24,7 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1222](https://www.urionlinejudge.com.br/judge/en/problems/view/1222) - *Short Story Competition* - **(STRINGS)**
   - :heavy_check_mark: [1237](https://www.urionlinejudge.com.br/judge/en/problems/view/1237) - *Compare Substring* - **(STRINGS)**
   - :heavy_check_mark: [1246](https://www.urionlinejudge.com.br/judge/en/problems/view/1246) - *Parking Lot* - **(AD-HOC)**
+  - :heavy_check_mark: [1251](https://www.urionlinejudge.com.br/judge/en/problems/view/1251) - *Tell me the Frequencies!* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: [1266](https://www.urionlinejudge.com.br/judge/en/problems/view/1266) - *Tornado!* - **(AD-HOC)**
   - :heavy_check_mark: [1277](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) - *Short Attendance* - **(STRINGS)**
   - :heavy_check_mark: [1278](https://www.urionlinejudge.com.br/judge/en/problems/view/1278) - *Justifier II* - **(STRINGS)**
