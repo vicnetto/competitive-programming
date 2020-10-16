@@ -25,12 +25,14 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1237](https://www.urionlinejudge.com.br/judge/en/problems/view/1237) - *Compare Substring* - **(STRINGS)**
   - :heavy_check_mark: [1246](https://www.urionlinejudge.com.br/judge/en/problems/view/1246) - *Parking Lot* - **(AD-HOC)**
   - :heavy_check_mark: [1251](https://www.urionlinejudge.com.br/judge/en/problems/view/1251) - *Tell me the Frequencies!* - **(DATA STRUCTURES AND LIBRARIES)**
+  - :heavy_check_mark: [1263](https://www.urionlinejudge.com.br/judge/en/problems/view/1263) - *Alliteration* - **(STRINGS)**
   - :heavy_check_mark: [1266](https://www.urionlinejudge.com.br/judge/en/problems/view/1266) - *Tornado!* - **(AD-HOC)**
   - :heavy_check_mark: [1277](https://www.urionlinejudge.com.br/judge/en/problems/view/1277) - *Short Attendance* - **(STRINGS)**
   - :heavy_check_mark: [1278](https://www.urionlinejudge.com.br/judge/en/problems/view/1278) - *Justifier II* - **(STRINGS)**
   - :heavy_minus_sign: [1284](https://www.urionlinejudge.com.br/judge/en/problems/view/1284) - *Cellphone Typing* - **(STRINGS)**
   - :heavy_check_mark: [1287](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) - *Friendly Int Parser* - **(STRINGS)**
   - :heavy_check_mark: [1321](https://www.urionlinejudge.com.br/judge/en/problems/view/1321) - *Jollo* - **(AD-HOC)**
+  - :heavy_minus_sign: [1519](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) - *Abbreviations* - **(STRINGS)**
 
 - UVa Online Judge
   - :heavy_check_mark: [10550](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) - *Combination Lock* - **(-)**
