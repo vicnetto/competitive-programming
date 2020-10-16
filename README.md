@@ -33,6 +33,7 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1287](https://www.urionlinejudge.com.br/judge/en/problems/view/1287) - *Friendly Int Parser* - **(STRINGS)**
   - :heavy_check_mark: [1321](https://www.urionlinejudge.com.br/judge/en/problems/view/1321) - *Jollo* - **(AD-HOC)**
   - :heavy_minus_sign: [1519](https://www.urionlinejudge.com.br/judge/en/problems/view/1519) - *Abbreviations* - **(STRINGS)**
+  - :heavy_check_mark: [2728](https://www.urionlinejudge.com.br/judge/en/problems/view/2728) - *Grace Hopper, Grandma of Cobol* - **(STRINGS)**
 
 - UVa Online Judge
   - :heavy_check_mark: [10550](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1491) - *Combination Lock* - **(-)**
