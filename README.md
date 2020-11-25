@@ -14,6 +14,7 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1068](https://www.urionlinejudge.com.br/judge/en/problems/view/1068) - *Parenthesis Balance I* - **(DATA STRUCTURES AND LIBRARIES)**
   - :x: [1086](https://www.urionlinejudge.com.br/judge/en/problems/view/1086) - *The Club Ballroom* - **(AD-HOC)**
     - WA 45%.
+  - :heavy_check_mark: [1105](https://www.urionlinejudge.com.br/judge/en/problems/view/1105) - *Sub-prime* - **(AD-HOC)**
   - :heavy_minus_sign: [1122](https://www.urionlinejudge.com.br/judge/en/problems/view/1122) - *Account Book* - **(AD-HOC)**
   - :heavy_minus_sign: [1198](https://www.urionlinejudge.com.br/judge/en/problems/view/1198) - *Hashmat the Brave Warrior* - **(MATHEMATICS)**
   - :x: [1202](https://www.urionlinejudge.com.br/judge/en/problems/view/1202) - *White Nights Festival* - **(MATHEMATICS)**
@@ -22,6 +23,7 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [1215](https://www.urionlinejudge.com.br/judge/en/problems/view/1215) - *Andy's First Dictionary* - **(DATA STRUCTURES AND LIBRARIES)**
   - :heavy_check_mark: [1221](https://www.urionlinejudge.com.br/judge/en/problems/view/1221) - *Fast Prime Number* - **(MATHEMATICS)**
   - :heavy_check_mark: [1222](https://www.urionlinejudge.com.br/judge/en/problems/view/1222) - *Short Story Competition* - **(STRINGS)**
+  - :heavy_check_mark: [1235](https://www.urionlinejudge.com.br/judge/en/problems/view/1235) - *Inside Out* - **(STRINGS)**
   - :heavy_check_mark: [1237](https://www.urionlinejudge.com.br/judge/en/problems/view/1237) - *Compare Substring* - **(STRINGS)**
   - :heavy_check_mark: [1246](https://www.urionlinejudge.com.br/judge/en/problems/view/1246) - *Parking Lot* - **(AD-HOC)**
   - :heavy_check_mark: [1251](https://www.urionlinejudge.com.br/judge/en/problems/view/1251) - *Tell me the Frequencies!* - **(DATA STRUCTURES AND LIBRARIES)**

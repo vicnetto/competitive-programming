@@ -13,9 +13,6 @@ int main () {
         string phrase;
         getline(cin, phrase);
 
-        if (phrase.size() % 2 == 1)
-            phrase.insert(phrase.begin() + (phrase.size() / 2), ' ');
-
         for (int j = phrase.size() / 2 - 1; j >= 0; j--)
             cout << phrase.at(j);
         
@@ -24,8 +21,6 @@ int main () {
 
         cout << endl;
     }
-
-
 
     return 0;
 }
