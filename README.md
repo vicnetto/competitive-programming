@@ -49,3 +49,4 @@ This repopository is intended to help people with some competitive programmming 
 
 - Leetcode
   - :heavy_check_mark: [1](https://leetcode.com/problems/two-sum/) - *Two Sum* - **Go**
+  - :heavy_check_mark: [2](https://leetcode.com/problems/add-two-numbers/) - *Add Two Numbers* - **Go**
