@@ -46,3 +46,6 @@ This repopository is intended to help people with some competitive programmming 
   - :heavy_check_mark: [11727](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=2827) - *Cost Cutting* - **(-)**
   - :heavy_check_mark: [272](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=208) - *TEX Quotes* - - **(-)**
   - :heavy_check_mark: [621](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=562) - *Secret Research* - - **(-)**
+
+- Leetcode
+  - :heavy_check_mark: [1](https://leetcode.com/problems/two-sum/) - *Two Sum* - **Go**
