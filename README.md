@@ -4,7 +4,7 @@ This repopository is intended to help people with some competitive programmming 
 
 ## Current problems:
 
-*LEGEND:*
+*Caption:*
 
 | :heavy_check_mark: Finished! | :heavy_minus_sign: Working on. | :x: Had problems with this one. |
 
